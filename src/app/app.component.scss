@@ -1,0 +1,25 @@
+
+
+p, h1, h2, td, th {
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.container {
+    max-width: 1024px;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+}
+
+
+.mat-cell {
+    color: rgba(255, 143, 0, 0.87);
+    font-size: 1.5em;
+}
+
+.mat-header-cell {
+    font-size: 1.5em;
+    color: rgba(0, 140, 255, 0.87);
+}
